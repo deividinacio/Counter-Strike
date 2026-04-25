@@ -1,0 +1,108 @@
+L 07/29/2021 - 14:51:23: Log file started (file "logs\L0729009.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 07/29/2021 - 14:51:24: Server cvar "sv_accelerate" = "5"
+L 07/29/2021 - 14:51:31: World triggered "Round_Start"
+L 07/29/2021 - 14:52:04: "Deivid<1><STEAM_0:0:1618212717><>" connected, address "25.69.99.255:27005"
+L 07/29/2021 - 14:52:04: "Deivid<1><STEAM_0:0:1618212717><>" STEAM USERID validated
+L 07/29/2021 - 14:52:04: Kick: "Deivid<1><STEAM_0:0:1618212717><>" was kicked by "Console" (message ""Voce nao tem acesso ao servidor..."")
+L 07/29/2021 - 14:52:24: "DeDe<2><STEAM_0:0:1618212717><>" connected, address "25.69.99.255:27005"
+L 07/29/2021 - 14:52:24: "DeDe<2><STEAM_0:0:1618212717><>" STEAM USERID validated
+L 07/29/2021 - 14:52:25: "DeDe<2><STEAM_0:0:1618212717><>" entered the game
+L 07/29/2021 - 14:52:28: "DeDe<2><STEAM_0:0:1618212717><>" joined team "TERRORIST"
+L 07/29/2021 - 14:52:29: Server cvar "mp_buytime" = "0.250000"
+L 07/29/2021 - 14:54:01: Rcon: "rcon 993825810 "123" bot_quota 10" from "25.69.99.255:27005"
+L 07/29/2021 - 14:54:01: Server cvar "bot_quota" = "10"
+L 07/29/2021 - 14:54:01: "Irwin<3><BOT><>" joined team "CT"
+L 07/29/2021 - 14:54:01: World triggered "Game_Commencing"
+L 07/29/2021 - 14:54:01: World triggered "Game_Commencing" (CT "0") (T "0")
+L 07/29/2021 - 14:54:01: World triggered "Round_End"
+L 07/29/2021 - 14:54:01: "Irwin<3><BOT><>" entered the game
+L 07/29/2021 - 14:54:01: "Perry<4><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:54:01: "Perry<4><BOT><>" entered the game
+L 07/29/2021 - 14:54:02: "Elmer<5><BOT><>" joined team "CT"
+L 07/29/2021 - 14:54:02: "Elmer<5><BOT><>" entered the game
+L 07/29/2021 - 14:54:02: "Oliver<6><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:54:02: "Oliver<6><BOT><>" entered the game
+L 07/29/2021 - 14:54:02: "Ethan<7><BOT><>" joined team "CT"
+L 07/29/2021 - 14:54:02: "Ethan<7><BOT><>" entered the game
+L 07/29/2021 - 14:54:02: "Josh<8><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:54:03: "Josh<8><BOT><>" entered the game
+L 07/29/2021 - 14:54:03: "Dustin<9><BOT><>" joined team "CT"
+L 07/29/2021 - 14:54:03: "Dustin<9><BOT><>" entered the game
+L 07/29/2021 - 14:54:03: "Henry<10><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:54:03: "Henry<10><BOT><>" entered the game
+L 07/29/2021 - 14:54:03: "Waldo<11><BOT><>" joined team "CT"
+L 07/29/2021 - 14:54:03: "Waldo<11><BOT><>" entered the game
+L 07/29/2021 - 14:54:04: "Allen<12><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:54:04: "Allen<12><BOT><>" entered the game
+L 07/29/2021 - 14:54:04: World triggered "Round_Start"
+L 07/29/2021 - 14:54:16: "Waldo<11><BOT><CT>" killed "Oliver<6><BOT><TERRORIST>" with "ump45"
+L 07/29/2021 - 14:54:32: "Ethan<7><BOT><CT>" killed "Perry<4><BOT><TERRORIST>" with "usp"
+L 07/29/2021 - 14:54:33: "Waldo<11><BOT><CT>" killed "DeDe<2><STEAM_0:0:1618212717><TERRORIST>" with "ump45"
+L 07/29/2021 - 14:54:39: "Henry<10><BOT><TERRORIST>" killed "Ethan<7><BOT><CT>" with "scout"
+L 07/29/2021 - 14:54:39: "Elmer<5><BOT><CT>" killed "Henry<10><BOT><TERRORIST>" with "mp5navy"
+L 07/29/2021 - 14:54:46: "Dustin<9><BOT><CT>" killed "Josh<8><BOT><TERRORIST>" with "sg550"
+L 07/29/2021 - 14:54:48: "Dustin<9><BOT><CT>" killed "Allen<12><BOT><TERRORIST>" with "sg550"
+L 07/29/2021 - 14:54:48: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 07/29/2021 - 14:54:48: World triggered "Round_End"
+L 07/29/2021 - 14:54:53: World triggered "Round_Start"
+L 07/29/2021 - 14:55:17: "Waldo<11><BOT><CT>" killed "Henry<10><BOT><TERRORIST>" with "ump45"
+L 07/29/2021 - 14:55:22: "Perry<4><BOT><TERRORIST>" killed "Dustin<9><BOT><CT>" with "glock18"
+L 07/29/2021 - 14:55:22: "Irwin<3><BOT><CT>" killed "Allen<12><BOT><TERRORIST>" with "ump45"
+L 07/29/2021 - 14:55:32: "Waldo<11><BOT><CT>" killed "Josh<8><BOT><TERRORIST>" with "ump45"
+L 07/29/2021 - 14:55:38: "DeDe<2><STEAM_0:0:1618212717><TERRORIST>" killed "Irwin<3><BOT><CT>" with "glock18"
+L 07/29/2021 - 14:55:51: "DeDe<2><STEAM_0:0:1618212717><TERRORIST>" killed "Waldo<11><BOT><CT>" with "glock18"
+L 07/29/2021 - 14:55:57: "DeDe<2><STEAM_0:0:1618212717><TERRORIST>" committed suicide with "world"
+L 07/29/2021 - 14:55:57: "DeDe<2><STEAM_0:0:1618212717><TERRORIST>" joined team "CT"
+L 07/29/2021 - 14:56:12: "Ethan<7><BOT><CT>" killed "Perry<4><BOT><TERRORIST>" with "sg550"
+L 07/29/2021 - 14:56:28: "Elmer<5><BOT><CT>" killed "Oliver<6><BOT><TERRORIST>" with "mp5navy"
+L 07/29/2021 - 14:56:28: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 07/29/2021 - 14:56:28: World triggered "Round_End"
+L 07/29/2021 - 14:56:33: World triggered "Round_Start"
+L 07/29/2021 - 14:56:57: "Irwin<3><BOT><CT>" killed "Perry<4><BOT><TERRORIST>" with "p90"
+L 07/29/2021 - 14:57:09: "DeDe<2><STEAM_0:0:1618212717><CT>" committed suicide with "world"
+L 07/29/2021 - 14:57:09: "DeDe<2><STEAM_0:0:1618212717><CT>" joined team "TERRORIST"
+L 07/29/2021 - 14:57:15: "Irwin<3><BOT><CT>" committed suicide with "worldspawn" (world)
+L 07/29/2021 - 14:57:25: "Allen<12><BOT><TERRORIST>" killed "Elmer<5><BOT><CT>" with "mp5navy"
+L 07/29/2021 - 14:57:34: Rcon: "rcon 993825810 "123" bot_kill" from "25.69.99.255:27005"
+L 07/29/2021 - 14:57:34: "Oliver<6><BOT><TERRORIST>" committed suicide with "p90"
+L 07/29/2021 - 14:57:34: "Ethan<7><BOT><CT>" committed suicide with "sg550"
+L 07/29/2021 - 14:57:34: "Josh<8><BOT><TERRORIST>" committed suicide with "mac10"
+L 07/29/2021 - 14:57:34: "Dustin<9><BOT><CT>" committed suicide with "usp"
+L 07/29/2021 - 14:57:34: "Henry<10><BOT><TERRORIST>" committed suicide with "sg552"
+L 07/29/2021 - 14:57:34: "Waldo<11><BOT><CT>" committed suicide with "m3"
+L 07/29/2021 - 14:57:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 07/29/2021 - 14:57:34: World triggered "Round_End"
+L 07/29/2021 - 14:57:34: "Allen<12><BOT><TERRORIST>" committed suicide with "mp5navy"
+L 07/29/2021 - 14:57:39: World triggered "Round_Start"
+L 07/29/2021 - 14:57:49: "DeDe<2><STEAM_0:0:1618212717><TERRORIST>" disconnected
+L 07/29/2021 - 14:57:51: Kick: "Irwin<3><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:51: "Irwin<3><BOT><CT>" disconnected
+L 07/29/2021 - 14:57:52: Kick: "Perry<4><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:52: "Perry<4><BOT><TERRORIST>" disconnected
+L 07/29/2021 - 14:57:52: Kick: "Elmer<5><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:52: "Elmer<5><BOT><CT>" disconnected
+L 07/29/2021 - 14:57:52: Kick: "Oliver<6><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:52: "Oliver<6><BOT><TERRORIST>" disconnected
+L 07/29/2021 - 14:57:53: Kick: "Ethan<7><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:53: "Ethan<7><BOT><CT>" disconnected
+L 07/29/2021 - 14:57:53: Kick: "Josh<8><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:53: "Josh<8><BOT><TERRORIST>" disconnected
+L 07/29/2021 - 14:57:53: Kick: "Dustin<9><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:53: "Dustin<9><BOT><CT>" disconnected
+L 07/29/2021 - 14:57:54: Kick: "Henry<10><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:54: "Henry<10><BOT><TERRORIST>" disconnected
+L 07/29/2021 - 14:57:54: Kick: "Waldo<11><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:54: "Waldo<11><BOT><CT>" disconnected
+L 07/29/2021 - 14:57:54: Kick: "Allen<12><STEAM_ID_PENDING><>" was kicked by "Console"
+L 07/29/2021 - 14:57:54: "Allen<12><BOT><TERRORIST>" disconnected
+L 07/29/2021 - 14:57:54: World triggered "Round_Draw" (CT "2") (T "1")
+L 07/29/2021 - 14:57:54: World triggered "Round_End"
+L 07/29/2021 - 14:57:59: World triggered "Round_Start"
+L 07/29/2021 - 14:58:00: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 07/29/2021 - 14:58:00: [META] ini: Read plugin config for: dproto_EF
+L 07/29/2021 - 14:58:00: [META] ini: Read plugin config for: AMX Mod X
+L 07/29/2021 - 14:58:00: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/29/2021 - 14:58:00: [META] dll: Updating plugins...
+L 07/29/2021 - 14:58:00: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/29/2021 - 14:58:00: Server shutdown
+L 07/29/2021 - 14:58:00: Log file closed

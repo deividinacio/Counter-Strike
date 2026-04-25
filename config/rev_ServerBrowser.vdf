@@ -1,0 +1,29 @@
+"filters"
+{
+	"favorites"
+	{
+		"0"
+		{
+			"name"		"26.255.211.195:27019"
+			"address"	"26.255.211.195:27019"
+			"lastplayed"	"1776991566"
+			"appID"		"0"
+			"gamedir"		""
+		}
+
+	}
+
+	"history"
+	{
+		"0"
+		{
+			"name"		"26.255.211.195:27019"
+			"address"	"26.255.211.195:27019"
+			"lastplayed"	"1776991613"
+			"appID"		"0"
+			"gamedir"		""
+		}
+
+	}
+
+}

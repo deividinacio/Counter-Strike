@@ -1,0 +1,49 @@
+L 07/29/2021 - 14:12:59: Log file started (file "logs\L0729004.log") (game "cstrike") (version "48/1.1.2.6/2.0.0.0/4554")
+L 07/29/2021 - 14:12:59: Server cvar "amx_language" = "bp"
+L 07/29/2021 - 14:12:59: "Deivid<1><STEAM_ID_LAN><>" connected, address "loopback"
+L 07/29/2021 - 14:12:59: Server cvar "sv_accelerate" = "5"
+L 07/29/2021 - 14:12:59: "Deivid<1><STEAM_ID_LAN><>" entered the game
+L 07/29/2021 - 14:13:00: World triggered "Round_Start"
+L 07/29/2021 - 14:13:01: "Deivid<1><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 07/29/2021 - 14:13:02: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:13:03: Server cvar "mp_buytime" = "0.250000"
+L 07/29/2021 - 14:14:45: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 07/29/2021 - 14:14:45: World triggered "Round_End"
+L 07/29/2021 - 14:14:50: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:14:50: World triggered "Round_Start"
+L 07/29/2021 - 14:16:39: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 07/29/2021 - 14:16:39: World triggered "Round_End"
+L 07/29/2021 - 14:16:44: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:16:44: World triggered "Round_Start"
+L 07/29/2021 - 14:18:31: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 07/29/2021 - 14:18:31: World triggered "Round_End"
+L 07/29/2021 - 14:18:36: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:18:36: World triggered "Round_Start"
+L 07/29/2021 - 14:20:23: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 07/29/2021 - 14:20:23: World triggered "Round_End"
+L 07/29/2021 - 14:20:28: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:20:28: World triggered "Round_Start"
+L 07/29/2021 - 14:22:15: Team "CT" triggered "Target_Saved" (CT "5") (T "0")
+L 07/29/2021 - 14:22:15: World triggered "Round_End"
+L 07/29/2021 - 14:22:21: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:22:21: World triggered "Round_Start"
+L 07/29/2021 - 14:24:08: Team "CT" triggered "Target_Saved" (CT "6") (T "0")
+L 07/29/2021 - 14:24:08: World triggered "Round_End"
+L 07/29/2021 - 14:24:13: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:24:13: World triggered "Round_Start"
+L 07/29/2021 - 14:26:00: Team "CT" triggered "Target_Saved" (CT "7") (T "0")
+L 07/29/2021 - 14:26:00: World triggered "Round_End"
+L 07/29/2021 - 14:26:05: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:26:05: World triggered "Round_Start"
+L 07/29/2021 - 14:27:52: Team "CT" triggered "Target_Saved" (CT "8") (T "0")
+L 07/29/2021 - 14:27:52: World triggered "Round_End"
+L 07/29/2021 - 14:27:57: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:27:57: World triggered "Round_Start"
+L 07/29/2021 - 14:29:40: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 07/29/2021 - 14:29:40: [META] ini: Read plugin config for: dproto_EF
+L 07/29/2021 - 14:29:40: [META] ini: Read plugin config for: AMX Mod X
+L 07/29/2021 - 14:29:40: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/29/2021 - 14:29:40: [META] dll: Updating plugins...
+L 07/29/2021 - 14:29:40: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/29/2021 - 14:29:40: Server shutdown
+L 07/29/2021 - 14:29:40: Log file closed

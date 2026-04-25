@@ -1,0 +1,22 @@
+L 04/23/2026 - 19:32:42: Log file started (file "logs\L0423000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 04/23/2026 - 19:32:42: Server cvar "sv_accelerate" = "5"
+L 04/23/2026 - 19:32:49: World triggered "Round_Start"
+L 04/23/2026 - 19:37:49: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 04/23/2026 - 19:37:49: World triggered "Round_End"
+L 04/23/2026 - 19:37:54: World triggered "Round_Start"
+L 04/23/2026 - 19:40:54: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 04/23/2026 - 19:40:54: World triggered "Round_End"
+L 04/23/2026 - 19:40:59: World triggered "Round_Start"
+L 04/23/2026 - 19:44:00: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 04/23/2026 - 19:44:00: World triggered "Round_End"
+L 04/23/2026 - 19:44:05: World triggered "Round_Start"
+L 04/23/2026 - 19:47:05: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 04/23/2026 - 19:47:05: World triggered "Round_End"
+L 04/23/2026 - 19:47:10: World triggered "Round_Start"
+L 04/23/2026 - 19:47:13: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 04/23/2026 - 19:47:13: [META] ini: Read plugin config for: dproto_EF
+L 04/23/2026 - 19:47:13: [META] ini: Read plugin config for: AMX Mod X
+L 04/23/2026 - 19:47:13: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 04/23/2026 - 19:47:13: [META] dll: Updating plugins...
+L 04/23/2026 - 19:47:13: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/23/2026 - 19:47:13: Log file closed

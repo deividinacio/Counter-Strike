@@ -1,0 +1,77 @@
+L 07/29/2021 - 14:01:58: Log file started (file "logs\L0729002.log") (game "cstrike") (version "48/1.1.2.6/2.0.0.0/4554")
+L 07/29/2021 - 14:01:58: Server cvar "amx_language" = "bp"
+L 07/29/2021 - 14:01:58: "Deivid<1><STEAM_ID_LAN><>" connected, address "loopback"
+L 07/29/2021 - 14:01:58: Server cvar "sv_accelerate" = "5"
+L 07/29/2021 - 14:01:59: "Deivid<1><STEAM_ID_LAN><>" entered the game
+L 07/29/2021 - 14:01:59: World triggered "Round_Start"
+L 07/29/2021 - 14:02:02: "Deivid<1><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 07/29/2021 - 14:02:03: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:02:03: Server cvar "mp_buytime" = "0.250000"
+L 07/29/2021 - 14:02:52: Rcon: "rcon 466001230 "123" bot_quota 10" from "loopback"
+L 07/29/2021 - 14:02:52: Server cvar "bot_quota" = "10"
+L 07/29/2021 - 14:02:52: "Marvin<2><BOT><>" joined team "CT"
+L 07/29/2021 - 14:02:52: World triggered "Game_Commencing"
+L 07/29/2021 - 14:02:52: World triggered "Game_Commencing" (CT "0") (T "0")
+L 07/29/2021 - 14:02:52: World triggered "Round_End"
+L 07/29/2021 - 14:02:52: "Marvin<2><BOT><>" entered the game
+L 07/29/2021 - 14:02:52: "Uri<3><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:02:53: "Uri<3><BOT><>" entered the game
+L 07/29/2021 - 14:02:53: "Yuri<4><BOT><>" joined team "CT"
+L 07/29/2021 - 14:02:53: "Yuri<4><BOT><>" entered the game
+L 07/29/2021 - 14:02:53: "Fergus<5><BOT><>" joined team "CT"
+L 07/29/2021 - 14:02:53: "Fergus<5><BOT><>" entered the game
+L 07/29/2021 - 14:02:53: "Graham<6><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:02:53: "Graham<6><BOT><>" entered the game
+L 07/29/2021 - 14:02:54: "Bert<7><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:02:54: "Bert<7><BOT><>" entered the game
+L 07/29/2021 - 14:02:54: "Ernie<8><BOT><>" joined team "CT"
+L 07/29/2021 - 14:02:54: "Ernie<8><BOT><>" entered the game
+L 07/29/2021 - 14:02:54: "Cecil<9><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:02:54: "Cecil<9><BOT><>" entered the game
+L 07/29/2021 - 14:02:55: "Frasier<10><BOT><>" joined team "CT"
+L 07/29/2021 - 14:02:55: "Frasier<10><BOT><>" entered the game
+L 07/29/2021 - 14:02:55: "Yogi<11><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:02:55: "Yogi<11><BOT><>" entered the game
+L 07/29/2021 - 14:02:55: "Uri<3><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:02:55: World triggered "Round_Start"
+L 07/29/2021 - 14:03:19: "Deivid<1><STEAM_ID_LAN><TERRORIST>" killed "Yuri<4><BOT><CT>" with "glock18"
+L 07/29/2021 - 14:03:22: "Fergus<5><BOT><CT>" killed "Deivid<1><STEAM_ID_LAN><TERRORIST>" with "mp5navy"
+L 07/29/2021 - 14:03:24: "Yogi<11><BOT><TERRORIST>" killed "Frasier<10><BOT><CT>" with "m249"
+L 07/29/2021 - 14:03:31: "Fergus<5><BOT><CT>" killed "Uri<3><BOT><TERRORIST>" with "mp5navy"
+L 07/29/2021 - 14:03:31: "Uri<3><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/29/2021 - 14:03:37: "Marvin<2><BOT><CT>" killed "Bert<7><BOT><TERRORIST>" with "p90"
+L 07/29/2021 - 14:03:37: Rcon: "rcon 466001230 "123" bot_kill" from "loopback"
+L 07/29/2021 - 14:03:37: "Marvin<2><BOT><CT>" committed suicide with "p90"
+L 07/29/2021 - 14:03:37: "Fergus<5><BOT><CT>" committed suicide with "mp5navy"
+L 07/29/2021 - 14:03:37: "Graham<6><BOT><TERRORIST>" committed suicide with "m249"
+L 07/29/2021 - 14:03:37: "Ernie<8><BOT><CT>" committed suicide with "famas"
+L 07/29/2021 - 14:03:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 07/29/2021 - 14:03:37: World triggered "Round_End"
+L 07/29/2021 - 14:03:37: "Cecil<9><BOT><TERRORIST>" committed suicide with "mp5navy"
+L 07/29/2021 - 14:03:37: "Yogi<11><BOT><TERRORIST>" committed suicide with "m249"
+L 07/29/2021 - 14:03:42: "Graham<6><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:03:42: World triggered "Round_Start"
+L 07/29/2021 - 14:03:49: "Deivid<1><STEAM_ID_LAN><TERRORIST>" committed suicide with "world"
+L 07/29/2021 - 14:03:49: "Deivid<1><STEAM_ID_LAN><TERRORIST>" joined team "CT"
+L 07/29/2021 - 14:04:01: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 07/29/2021 - 14:04:01: [META] ini: Read plugin config for: dproto_EF
+L 07/29/2021 - 14:04:01: [META] ini: Read plugin config for: AMX Mod X
+L 07/29/2021 - 14:04:01: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/29/2021 - 14:04:01: [META] dll: Updating plugins...
+L 07/29/2021 - 14:04:01: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/29/2021 - 14:04:01: "Deivid<-1><><CT>" disconnected
+L 07/29/2021 - 14:04:01: "Marvin<-1><><CT>" disconnected
+L 07/29/2021 - 14:04:01: "Uri<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:04:01: "Yuri<-1><><CT>" disconnected
+L 07/29/2021 - 14:04:01: "Fergus<-1><><CT>" disconnected
+L 07/29/2021 - 14:04:01: "Graham<-1><><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/29/2021 - 14:04:01: "Graham<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:04:01: "Bert<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:04:01: "Ernie<-1><><CT>" disconnected
+L 07/29/2021 - 14:04:01: "Cecil<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:04:01: "Frasier<-1><><CT>" disconnected
+L 07/29/2021 - 14:04:01: "Yogi<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:04:01: World triggered "Round_Draw" (CT "0") (T "1")
+L 07/29/2021 - 14:04:01: World triggered "Round_End"
+L 07/29/2021 - 14:04:01: Server shutdown
+L 07/29/2021 - 14:04:01: Log file closed

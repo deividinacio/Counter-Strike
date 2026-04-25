@@ -1,0 +1,22 @@
+L 08/05/2021 - 17:33:24: Log file started (file "logs\L0805005.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 08/05/2021 - 17:33:25: Server cvar "sv_accelerate" = "5"
+L 08/05/2021 - 17:33:32: World triggered "Round_Start"
+L 08/05/2021 - 17:35:27: "Player<1><STEAM_0:0:628500202><>" connected, address "25.2.173.120:27005"
+L 08/05/2021 - 17:35:27: "Player<1><STEAM_0:0:628500202><>" STEAM USERID validated
+L 08/05/2021 - 17:35:30: "Player<1><STEAM_0:0:628500202><>" entered the game
+L 08/05/2021 - 17:35:32: "Player<1><STEAM_0:0:628500202><>" joined team "TERRORIST"
+L 08/05/2021 - 17:35:33: "Player<1><STEAM_0:0:628500202><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 08/05/2021 - 17:35:34: Server cvar "mp_buytime" = "0.250000"
+L 08/05/2021 - 17:36:04: Bad Rcon: "rcon 517096544 "" restart" from "25.2.173.120:27005"
+L 08/05/2021 - 17:36:23: Rcon: "rcon 517096544 "SuaSenha" restart " from "25.2.173.120:27005"
+L 08/05/2021 - 17:36:23: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 08/05/2021 - 17:36:23: [META] ini: Read plugin config for: dproto_EF
+L 08/05/2021 - 17:36:23: [META] ini: Read plugin config for: AMX Mod X
+L 08/05/2021 - 17:36:23: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 08/05/2021 - 17:36:23: [META] dll: Updating plugins...
+L 08/05/2021 - 17:36:23: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 08/05/2021 - 17:36:23: "Player<1><STEAM_0:0:628500202><TERRORIST>" triggered "Dropped_The_Bomb"
+L 08/05/2021 - 17:36:23: "Player<1><STEAM_0:0:628500202><TERRORIST>" disconnected
+L 08/05/2021 - 17:36:23: World triggered "Round_Draw" (CT "0") (T "0")
+L 08/05/2021 - 17:36:23: World triggered "Round_End"
+L 08/05/2021 - 17:36:23: Log file closed

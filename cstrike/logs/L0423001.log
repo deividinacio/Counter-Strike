@@ -1,0 +1,91 @@
+L 04/23/2026 - 19:43:01: Log file started (file "logs\L0423001.log") (game "cstrike") (version "48/1.1.2.6/2.0.0.0/4554")
+L 04/23/2026 - 19:43:01: Server cvar "amx_language" = "bp"
+L 04/23/2026 - 19:43:01: "Deivid<1><STEAM_ID_LAN><>" connected, address "loopback"
+L 04/23/2026 - 19:43:01: Server cvar "sv_accelerate" = "5"
+L 04/23/2026 - 19:43:05: World triggered "Round_Start"
+L 04/23/2026 - 19:43:05: "Deivid<1><STEAM_ID_LAN><>" entered the game
+L 04/23/2026 - 19:43:20: "Deivid<1><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 04/23/2026 - 19:43:22: Server cvar "mp_buytime" = "0.250000"
+L 04/23/2026 - 19:43:22: "Niles<2><BOT><>" joined team "CT"
+L 04/23/2026 - 19:43:22: "Niles<2><BOT><CT>" triggered "Became_VIP"
+L 04/23/2026 - 19:43:23: "Niles<2><BOT><>" entered the game
+L 04/23/2026 - 19:43:23: World triggered "Game_Commencing"
+L 04/23/2026 - 19:43:23: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/23/2026 - 19:43:23: World triggered "Round_End"
+L 04/23/2026 - 19:43:23: "Dean<3><BOT><>" joined team "CT"
+L 04/23/2026 - 19:43:23: "Dean<3><BOT><>" entered the game
+L 04/23/2026 - 19:43:23: "Norm<4><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:43:23: "Norm<4><BOT><>" entered the game
+L 04/23/2026 - 19:43:23: "Cecil<5><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:43:23: "Cecil<5><BOT><>" entered the game
+L 04/23/2026 - 19:43:24: "Orin<6><BOT><>" joined team "CT"
+L 04/23/2026 - 19:43:24: "Orin<6><BOT><>" entered the game
+L 04/23/2026 - 19:43:24: "Wally<7><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:43:24: "Wally<7><BOT><>" entered the game
+L 04/23/2026 - 19:43:24: "Allen<8><BOT><>" joined team "CT"
+L 04/23/2026 - 19:43:24: "Allen<8><BOT><>" entered the game
+L 04/23/2026 - 19:43:25: "Alfred<9><BOT><>" joined team "CT"
+L 04/23/2026 - 19:43:25: "Alfred<9><BOT><>" entered the game
+L 04/23/2026 - 19:43:25: "Bill<10><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:43:25: "Bill<10><BOT><>" entered the game
+L 04/23/2026 - 19:43:25: "Yuri<11><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:43:25: "Yuri<11><BOT><>" entered the game
+L 04/23/2026 - 19:43:26: World triggered "Round_Start"
+L 04/23/2026 - 19:43:58: "Niles<2><BOT><CT>" killed "Norm<4><BOT><TERRORIST>" with "usp"
+L 04/23/2026 - 19:44:02: "Orin<6><BOT><CT>" killed "Cecil<5><BOT><TERRORIST>" with "usp"
+L 04/23/2026 - 19:44:14: "Yuri<11><BOT><TERRORIST>" killed "Dean<3><BOT><CT>" with "glock18"
+L 04/23/2026 - 19:44:16: "Bill<10><BOT><TERRORIST>" killed "Alfred<9><BOT><CT>" with "glock18"
+L 04/23/2026 - 19:44:55: "Allen<8><BOT><CT>" killed "Wally<7><BOT><TERRORIST>" with "usp"
+L 04/23/2026 - 19:45:16: "Niles<2><BOT><CT>" triggered "Escaped_As_VIP"
+L 04/23/2026 - 19:45:16: Team "CT" triggered "VIP_Escaped" (CT "1") (T "0")
+L 04/23/2026 - 19:45:16: World triggered "Round_End"
+L 04/23/2026 - 19:45:21: World triggered "Round_Start"
+L 04/23/2026 - 19:45:37: "Norm<4><BOT><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 04/23/2026 - 19:45:47: "Orin<6><BOT><CT>" committed suicide with "worldspawn" (world)
+L 04/23/2026 - 19:45:59: "Alfred<9><BOT><CT>" killed "Wally<7><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:46:10: "Alfred<9><BOT><CT>" killed "Cecil<5><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:46:14: "Allen<8><BOT><CT>" killed "Yuri<11><BOT><TERRORIST>" with "ump45"
+L 04/23/2026 - 19:46:30: "Niles<2><BOT><CT>" triggered "Escaped_As_VIP"
+L 04/23/2026 - 19:46:30: Team "CT" triggered "VIP_Escaped" (CT "2") (T "0")
+L 04/23/2026 - 19:46:30: World triggered "Round_End"
+L 04/23/2026 - 19:46:35: "Dean<3><BOT><CT>" triggered "Became_VIP"
+L 04/23/2026 - 19:46:35: World triggered "Round_Start"
+L 04/23/2026 - 19:47:07: "Alfred<9><BOT><CT>" killed "Bill<10><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:47:08: "Yuri<11><BOT><TERRORIST>" killed "Alfred<9><BOT><CT>" with "galil"
+L 04/23/2026 - 19:47:28: "Niles<2><BOT><CT>" killed "Deivid<1><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 04/23/2026 - 19:47:37: "Dean<3><BOT><CT>" killed "Cecil<5><BOT><TERRORIST>" with "usp"
+L 04/23/2026 - 19:47:39: "Niles<2><BOT><CT>" committed suicide with "m4a1"
+L 04/23/2026 - 19:47:39: "Dean<3><BOT><CT>" committed suicide with "usp"
+L 04/23/2026 - 19:47:39: Team "TERRORIST" triggered "VIP_Assassinated" (CT "2") (T "1")
+L 04/23/2026 - 19:47:39: World triggered "Round_End"
+L 04/23/2026 - 19:47:39: "Norm<4><BOT><TERRORIST>" committed suicide with "ump45"
+L 04/23/2026 - 19:47:39: "Orin<6><BOT><CT>" committed suicide with "m4a1"
+L 04/23/2026 - 19:47:39: "Wally<7><BOT><TERRORIST>" committed suicide with "p228"
+L 04/23/2026 - 19:47:39: "Allen<8><BOT><CT>" committed suicide with "ump45"
+L 04/23/2026 - 19:47:39: "Yuri<11><BOT><TERRORIST>" committed suicide with "galil"
+L 04/23/2026 - 19:47:44: World triggered "Round_Start"
+L 04/23/2026 - 19:47:54: "Yuri<11><BOT><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 04/23/2026 - 19:47:54: "Cecil<5><BOT><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 04/23/2026 - 19:48:13: "Niles<2><BOT><CT>" killed "Bill<10><BOT><TERRORIST>" with "xm1014"
+L 04/23/2026 - 19:48:29: "Dean<3><BOT><CT>" killed "Wally<7><BOT><TERRORIST>" with "usp"
+L 04/23/2026 - 19:48:33: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 04/23/2026 - 19:48:33: [META] ini: Read plugin config for: dproto_EF
+L 04/23/2026 - 19:48:33: [META] ini: Read plugin config for: AMX Mod X
+L 04/23/2026 - 19:48:33: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 04/23/2026 - 19:48:33: [META] dll: Updating plugins...
+L 04/23/2026 - 19:48:33: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/23/2026 - 19:48:33: "Deivid<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:48:33: "Niles<-1><><CT>" disconnected
+L 04/23/2026 - 19:48:33: "Dean<-1><><CT>" disconnected
+L 04/23/2026 - 19:48:33: "Norm<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:48:33: Team "CT" triggered "CTs_Win" (CT "3") (T "1")
+L 04/23/2026 - 19:48:33: World triggered "Round_End"
+L 04/23/2026 - 19:48:33: "Cecil<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:48:33: "Orin<-1><><CT>" disconnected
+L 04/23/2026 - 19:48:33: "Wally<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:48:33: "Allen<-1><><CT>" disconnected
+L 04/23/2026 - 19:48:33: "Alfred<-1><><CT>" disconnected
+L 04/23/2026 - 19:48:33: "Bill<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:48:33: "Yuri<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:48:33: Server shutdown
+L 04/23/2026 - 19:48:33: Log file closed

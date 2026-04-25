@@ -1,0 +1,14 @@
+L 08/05/2021 - 00:07:46: Log file started (file "logs\L0805002.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 08/05/2021 - 00:07:47: Server cvar "sv_accelerate" = "5"
+L 08/05/2021 - 00:07:54: World triggered "Round_Start"
+L 08/05/2021 - 00:07:54: "Deivid<1><STEAM_0:0:628500202><>" connected, address "25.2.173.120:27005"
+L 08/05/2021 - 00:07:54: "Deivid<1><STEAM_0:0:628500202><>" STEAM USERID validated
+L 08/05/2021 - 00:07:54: Kick: "Deivid<1><STEAM_0:0:628500202><>" was kicked by "Console" (message ""Voce nao tem acesso ao servidor..."")
+L 08/05/2021 - 00:08:07: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 08/05/2021 - 00:08:07: [META] ini: Read plugin config for: dproto_EF
+L 08/05/2021 - 00:08:07: [META] ini: Read plugin config for: AMX Mod X
+L 08/05/2021 - 00:08:07: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 08/05/2021 - 00:08:07: [META] dll: Updating plugins...
+L 08/05/2021 - 00:08:07: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 08/05/2021 - 00:08:07: Server shutdown
+L 08/05/2021 - 00:08:07: Log file closed

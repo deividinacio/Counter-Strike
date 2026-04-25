@@ -1,0 +1,134 @@
+L 04/23/2026 - 19:48:34: Log file started (file "logs\L0423006.log") (game "cstrike") (version "48/1.1.2.6/2.0.0.0/4554")
+L 04/23/2026 - 19:48:34: "Deivid<12><STEAM_ID_LAN><>" connected, address "loopback"
+L 04/23/2026 - 19:48:34: Server cvar "sv_accelerate" = "5"
+L 04/23/2026 - 19:48:34: "Deivid<12><STEAM_ID_LAN><>" entered the game
+L 04/23/2026 - 19:48:35: World triggered "Round_Start"
+L 04/23/2026 - 19:48:37: "Deivid<12><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 04/23/2026 - 19:48:38: "Deivid<12><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/23/2026 - 19:48:38: "Opie<13><BOT><>" joined team "CT"
+L 04/23/2026 - 19:48:38: "Opie<13><BOT><>" entered the game
+L 04/23/2026 - 19:48:38: World triggered "Game_Commencing"
+L 04/23/2026 - 19:48:38: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/23/2026 - 19:48:38: World triggered "Round_End"
+L 04/23/2026 - 19:48:39: "Albert<14><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:48:39: "Albert<14><BOT><>" entered the game
+L 04/23/2026 - 19:48:39: Server cvar "mp_buytime" = "0.250000"
+L 04/23/2026 - 19:48:39: "Ulric<15><BOT><>" joined team "CT"
+L 04/23/2026 - 19:48:39: "Ulric<15><BOT><>" entered the game
+L 04/23/2026 - 19:48:39: "Orin<16><BOT><>" joined team "CT"
+L 04/23/2026 - 19:48:39: "Orin<16><BOT><>" entered the game
+L 04/23/2026 - 19:48:40: "Shawn<17><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:48:40: "Shawn<17><BOT><>" entered the game
+L 04/23/2026 - 19:48:40: "Ron<18><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:48:40: "Ron<18><BOT><>" entered the game
+L 04/23/2026 - 19:48:40: "Martin<19><BOT><>" joined team "CT"
+L 04/23/2026 - 19:48:40: "Martin<19><BOT><>" entered the game
+L 04/23/2026 - 19:48:40: "Frank<20><BOT><>" joined team "CT"
+L 04/23/2026 - 19:48:40: "Frank<20><BOT><>" entered the game
+L 04/23/2026 - 19:48:41: "Walt<21><BOT><>" joined team "TERRORIST"
+L 04/23/2026 - 19:48:41: "Walt<21><BOT><>" entered the game
+L 04/23/2026 - 19:48:41: "Wesley<22><BOT><>" joined team "CT"
+L 04/23/2026 - 19:48:41: "Wesley<22><BOT><>" entered the game
+L 04/23/2026 - 19:48:41: "Albert<14><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/23/2026 - 19:48:41: World triggered "Round_Start"
+L 04/23/2026 - 19:48:57: "Ulric<15><BOT><CT>" killed "Albert<14><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:48:57: "Albert<14><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/23/2026 - 19:49:04: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Wesley<22><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:49:10: "Orin<16><BOT><CT>" killed "Ron<18><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:49:19: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Martin<19><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:49:21: "Walt<21><BOT><TERRORIST>" killed "Orin<16><BOT><CT>" with "m249"
+L 04/23/2026 - 19:50:05: "Deivid<12><STEAM_ID_LAN><TERRORIST>" triggered "Got_The_Bomb"
+L 04/23/2026 - 19:50:06: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Ulric<15><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:50:08: "Frank<20><BOT><CT>" killed "Walt<21><BOT><TERRORIST>" with "xm1014"
+L 04/23/2026 - 19:50:11: "Shawn<17><BOT><TERRORIST>" killed "Frank<20><BOT><CT>" with "scout"
+L 04/23/2026 - 19:50:25: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Opie<13><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:50:25: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/23/2026 - 19:50:25: World triggered "Round_End"
+L 04/23/2026 - 19:50:30: "Shawn<17><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/23/2026 - 19:50:30: World triggered "Round_Start"
+L 04/23/2026 - 19:50:43: "Perry<23><BOT><>" joined team "CT"
+L 04/23/2026 - 19:50:43: Server cvar "bot_quota" = "11"
+L 04/23/2026 - 19:50:43: "Perry<23><BOT><>" entered the game
+L 04/23/2026 - 19:50:49: "Shawn<17><BOT><TERRORIST>" killed "Ulric<15><BOT><CT>" with "scout"
+L 04/23/2026 - 19:50:58: "Shawn<17><BOT><TERRORIST>" killed "Perry<23><BOT><CT>" with "elite"
+L 04/23/2026 - 19:51:10: "Albert<14><BOT><TERRORIST>" killed "Opie<13><BOT><CT>" with "mac10"
+L 04/23/2026 - 19:51:21: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Martin<19><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:51:21: "Frank<20><BOT><CT>" killed "Shawn<17><BOT><TERRORIST>" with "m249"
+L 04/23/2026 - 19:51:21: "Shawn<17><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/23/2026 - 19:51:41: "Walt<21><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 04/23/2026 - 19:51:47: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Frank<20><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:51:49: "Wesley<22><BOT><CT>" killed "Walt<21><BOT><TERRORIST>" with "mp5navy"
+L 04/23/2026 - 19:51:49: "Walt<21><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/23/2026 - 19:51:52: "Orin<16><BOT><CT>" killed "Albert<14><BOT><TERRORIST>" with "m3"
+L 04/23/2026 - 19:51:53: "Ron<18><BOT><TERRORIST>" killed "Wesley<22><BOT><CT>" with "sg552"
+L 04/23/2026 - 19:52:11: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Orin<16><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:52:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 04/23/2026 - 19:52:11: World triggered "Round_End"
+L 04/23/2026 - 19:52:16: "Ron<18><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/23/2026 - 19:52:16: World triggered "Round_Start"
+L 04/23/2026 - 19:52:37: "Albert<14><BOT><TERRORIST>" killed "Ulric<15><BOT><CT>" with "galil"
+L 04/23/2026 - 19:52:39: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Frank<20><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:52:45: "Perry<23><BOT><CT>" killed "Ron<18><BOT><TERRORIST>" with "xm1014"
+L 04/23/2026 - 19:52:45: "Ron<18><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/23/2026 - 19:52:46: "Perry<23><BOT><CT>" killed "Albert<14><BOT><TERRORIST>" with "xm1014"
+L 04/23/2026 - 19:52:55: "Shawn<17><BOT><TERRORIST>" triggered "Got_The_Bomb"
+L 04/23/2026 - 19:52:56: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Orin<16><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:53:02: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Perry<23><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:53:03: "Martin<19><BOT><CT>" killed "Deivid<12><STEAM_ID_LAN><TERRORIST>" with "m4a1"
+L 04/23/2026 - 19:53:09: "Walt<21><BOT><TERRORIST>" killed "Martin<19><BOT><CT>" with "mp5navy"
+L 04/23/2026 - 19:53:12: "Shawn<17><BOT><TERRORIST>" killed "Opie<13><BOT><CT>" with "galil"
+L 04/23/2026 - 19:53:30: "Shawn<17><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 04/23/2026 - 19:53:47: "Wesley<22><BOT><CT>" killed "Shawn<17><BOT><TERRORIST>" with "famas"
+L 04/23/2026 - 19:53:54: "Walt<21><BOT><TERRORIST>" killed "Wesley<22><BOT><CT>" with "mp5navy"
+L 04/23/2026 - 19:53:54: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 04/23/2026 - 19:53:54: World triggered "Round_End"
+L 04/23/2026 - 19:53:59: "Perry<23><BOT><CT>" joined team "TERRORIST" (auto)
+L 04/23/2026 - 19:53:59: "Walt<21><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/23/2026 - 19:53:59: World triggered "Round_Start"
+L 04/23/2026 - 19:54:04: Bad Rcon: "rcon 1805079654 "" bot_quota 20" from "loopback"
+L 04/23/2026 - 19:54:19: "Orin<16><BOT><CT>" killed "Perry<23><BOT><TERRORIST>" with "aug"
+L 04/23/2026 - 19:54:23: Bad Rcon: "rcon 1805079654 "" bot_quota 20" from "loopback"
+L 04/23/2026 - 19:54:33: "Ron<18><BOT><TERRORIST>" killed "Opie<13><BOT><CT>" with "mp5navy"
+L 04/23/2026 - 19:54:59: "Shawn<17><BOT><TERRORIST>" killed "Orin<16><BOT><CT>" with "m249"
+L 04/23/2026 - 19:55:01: "Walt<21><BOT><TERRORIST>" triggered "Planted_The_Bomb"
+L 04/23/2026 - 19:55:07: "Ron<18><BOT><TERRORIST>" killed "Ulric<15><BOT><CT>" with "mp5navy"
+L 04/23/2026 - 19:55:26: "Martin<19><BOT><CT>" killed "Albert<14><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:55:28: "Shawn<17><BOT><TERRORIST>" killed "Martin<19><BOT><CT>" with "m249"
+L 04/23/2026 - 19:55:30: "Shawn<17><BOT><TERRORIST>" killed "Frank<20><BOT><CT>" with "m249"
+L 04/23/2026 - 19:55:33: Bad Rcon: "rcon 1805079654 "" bot_quota 20" from "loopback"
+L 04/23/2026 - 19:55:35: "Shawn<17><BOT><TERRORIST>" killed "Wesley<22><BOT><CT>" with "m249"
+L 04/23/2026 - 19:55:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 04/23/2026 - 19:55:35: World triggered "Round_End"
+L 04/23/2026 - 19:55:40: "Perry<23><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 04/23/2026 - 19:55:40: World triggered "Round_Start"
+L 04/23/2026 - 19:56:02: "Walt<21><BOT><TERRORIST>" killed "Ulric<15><BOT><CT>" with "mp5navy"
+L 04/23/2026 - 19:56:20: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Wesley<22><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:56:20: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Opie<13><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:56:23: "Martin<19><BOT><CT>" killed "Perry<23><BOT><TERRORIST>" with "deagle"
+L 04/23/2026 - 19:56:23: "Perry<23><BOT><TERRORIST>" triggered "Dropped_The_Bomb"
+L 04/23/2026 - 19:56:24: "Orin<16><BOT><CT>" killed "Ron<18><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:56:29: "Deivid<12><STEAM_ID_LAN><TERRORIST>" killed "Martin<19><BOT><CT>" with "ak47"
+L 04/23/2026 - 19:56:31: "Orin<16><BOT><CT>" killed "Deivid<12><STEAM_ID_LAN><TERRORIST>" with "p90"
+L 04/23/2026 - 19:56:44: "Frank<20><BOT><CT>" killed "Shawn<17><BOT><TERRORIST>" with "p90"
+L 04/23/2026 - 19:56:45: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 04/23/2026 - 19:56:45: [META] ini: Read plugin config for: dproto_EF
+L 04/23/2026 - 19:56:45: [META] ini: Read plugin config for: AMX Mod X
+L 04/23/2026 - 19:56:45: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 04/23/2026 - 19:56:45: [META] dll: Updating plugins...
+L 04/23/2026 - 19:56:45: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/23/2026 - 19:56:45: "Deivid<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:56:45: "Opie<-1><><CT>" disconnected
+L 04/23/2026 - 19:56:45: "Albert<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:56:45: "Ulric<-1><><CT>" disconnected
+L 04/23/2026 - 19:56:45: "Orin<-1><><CT>" disconnected
+L 04/23/2026 - 19:56:45: "Shawn<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:56:45: "Ron<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:56:45: "Martin<-1><><CT>" disconnected
+L 04/23/2026 - 19:56:45: "Frank<-1><><CT>" disconnected
+L 04/23/2026 - 19:56:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "5")
+L 04/23/2026 - 19:56:45: World triggered "Round_End"
+L 04/23/2026 - 19:56:45: "Walt<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:56:45: "Wesley<-1><><CT>" disconnected
+L 04/23/2026 - 19:56:45: "Perry<-1><><TERRORIST>" disconnected
+L 04/23/2026 - 19:56:45: Server shutdown
+L 04/23/2026 - 19:56:45: Log file closed

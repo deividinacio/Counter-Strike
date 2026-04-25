@@ -1,0 +1,25 @@
+Informações sobre cs_chaves
+------------------------------------------------
+Nome: Vila do chaves
+Arquivo: cs_chaves
+Tipo: Resgate de Reféns
+Jogo: Half-life
+Mod: Counter-Strike (www.counter-strike.net)
+Criador: Ch4p0L1N (www.csconditionzero.cjb.net)
+Tempo de desenvolvimento: 3 meses
+Tempo de compilação: 3:48
+Suporte: 32 jogadores (Recomendável: 16)
+-------------------------------------------------
+Contato: www.csconditionzero.cjb.net
+	 chapolin_08@hotmail.com
+-------------------------------------------------
+Programa utilizado: Valve Hammer Editor 3.5
+Outros programas: ZHLT, Makels e Qlumpy.
+-------------------------------------------------
+Waypoints: NEMESIS (nemesis_4ever@hotmail.com)
+-------------------------------------------------
+Favor avisar com antecedência por e-mail, caso
+queira distribuir a cs_chaves em algum tipo de 
+mídia ou cd.
+-------------------------------------------------
+CS_CHAVES BY Ch4p0L1N www.csconditionzero.cjb.net

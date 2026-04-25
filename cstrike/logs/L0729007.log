@@ -1,0 +1,62 @@
+L 07/29/2021 - 14:47:40: Log file started (file "logs\L0729007.log") (game "cstrike") (version "48/1.1.2.6/2.0.0.0/4554")
+L 07/29/2021 - 14:47:40: Server cvar "amx_language" = "bp"
+L 07/29/2021 - 14:47:40: "Deivid<1><STEAM_ID_LAN><>" connected, address "loopback"
+L 07/29/2021 - 14:47:40: Server cvar "sv_accelerate" = "5"
+L 07/29/2021 - 14:47:41: "Deivid<1><STEAM_ID_LAN><>" entered the game
+L 07/29/2021 - 14:47:41: World triggered "Round_Start"
+L 07/29/2021 - 14:47:43: "Deivid<1><STEAM_ID_LAN><>" joined team "TERRORIST"
+L 07/29/2021 - 14:47:44: "Deivid<1><STEAM_ID_LAN><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:47:44: Server cvar "mp_buytime" = "0.250000"
+L 07/29/2021 - 14:48:58: Rcon: "rcon 2347673427 "123" bot_quota 10" from "loopback"
+L 07/29/2021 - 14:48:58: Server cvar "bot_quota" = "10"
+L 07/29/2021 - 14:48:59: "Elliot<2><BOT><>" joined team "CT"
+L 07/29/2021 - 14:48:59: World triggered "Game_Commencing"
+L 07/29/2021 - 14:48:59: World triggered "Game_Commencing" (CT "0") (T "0")
+L 07/29/2021 - 14:48:59: World triggered "Round_End"
+L 07/29/2021 - 14:48:59: "Elliot<2><BOT><>" entered the game
+L 07/29/2021 - 14:48:59: "Yanni<3><BOT><>" joined team "CT"
+L 07/29/2021 - 14:48:59: "Yanni<3><BOT><>" entered the game
+L 07/29/2021 - 14:48:59: "Clarence<4><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:48:59: "Clarence<4><BOT><>" entered the game
+L 07/29/2021 - 14:48:59: "Fergus<5><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:49:00: "Fergus<5><BOT><>" entered the game
+L 07/29/2021 - 14:49:00: "Fred<6><BOT><>" joined team "CT"
+L 07/29/2021 - 14:49:00: "Fred<6><BOT><>" entered the game
+L 07/29/2021 - 14:49:00: "Bob<7><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:49:00: "Bob<7><BOT><>" entered the game
+L 07/29/2021 - 14:49:00: "Will<8><BOT><>" joined team "CT"
+L 07/29/2021 - 14:49:00: "Will<8><BOT><>" entered the game
+L 07/29/2021 - 14:49:01: "Shawn<9><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:49:01: "Shawn<9><BOT><>" entered the game
+L 07/29/2021 - 14:49:01: "Oliver<10><BOT><>" joined team "CT"
+L 07/29/2021 - 14:49:01: "Oliver<10><BOT><>" entered the game
+L 07/29/2021 - 14:49:01: "Allen<11><BOT><>" joined team "TERRORIST"
+L 07/29/2021 - 14:49:01: "Allen<11><BOT><>" entered the game
+L 07/29/2021 - 14:49:02: "Clarence<4><BOT><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 07/29/2021 - 14:49:02: World triggered "Round_Start"
+L 07/29/2021 - 14:49:20: "Shawn<9><BOT><TERRORIST>" killed "Yanni<3><BOT><CT>" with "g3sg1"
+L 07/29/2021 - 14:49:25: "Deivid<1><STEAM_ID_LAN><TERRORIST>" committed suicide with "world"
+L 07/29/2021 - 14:49:25: "Deivid<1><STEAM_ID_LAN><TERRORIST>" joined team "CT"
+L 07/29/2021 - 14:49:32: "Fergus<5><BOT><TERRORIST>" killed "Oliver<10><BOT><CT>" with "m3"
+L 07/29/2021 - 14:49:37: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 07/29/2021 - 14:49:37: [META] ini: Read plugin config for: dproto_EF
+L 07/29/2021 - 14:49:37: [META] ini: Read plugin config for: AMX Mod X
+L 07/29/2021 - 14:49:37: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/29/2021 - 14:49:37: [META] dll: Updating plugins...
+L 07/29/2021 - 14:49:37: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/29/2021 - 14:49:37: "Deivid<-1><><CT>" disconnected
+L 07/29/2021 - 14:49:37: "Elliot<-1><><CT>" disconnected
+L 07/29/2021 - 14:49:37: "Yanni<-1><><CT>" disconnected
+L 07/29/2021 - 14:49:37: "Clarence<-1><><TERRORIST>" triggered "Dropped_The_Bomb"
+L 07/29/2021 - 14:49:37: "Clarence<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:49:37: "Fergus<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:49:37: "Fred<-1><><CT>" disconnected
+L 07/29/2021 - 14:49:37: "Bob<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:49:37: "Will<-1><><CT>" disconnected
+L 07/29/2021 - 14:49:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 07/29/2021 - 14:49:37: World triggered "Round_End"
+L 07/29/2021 - 14:49:37: "Shawn<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:49:37: "Oliver<-1><><CT>" disconnected
+L 07/29/2021 - 14:49:37: "Allen<-1><><TERRORIST>" disconnected
+L 07/29/2021 - 14:49:37: Server shutdown
+L 07/29/2021 - 14:49:37: Log file closed

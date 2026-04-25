@@ -1,0 +1,89 @@
+L 04/23/2026 - 19:47:13: Log file started (file "logs\L0423003.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 04/23/2026 - 19:47:14: Server cvar "sv_accelerate" = "5"
+L 04/23/2026 - 19:47:15: World triggered "Round_Start"
+L 04/23/2026 - 19:50:15: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 04/23/2026 - 19:50:15: World triggered "Round_End"
+L 04/23/2026 - 19:50:20: World triggered "Round_Start"
+L 04/23/2026 - 19:53:20: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 04/23/2026 - 19:53:20: World triggered "Round_End"
+L 04/23/2026 - 19:53:25: World triggered "Round_Start"
+L 04/23/2026 - 19:56:25: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 04/23/2026 - 19:56:25: World triggered "Round_End"
+L 04/23/2026 - 19:56:30: World triggered "Round_Start"
+L 04/23/2026 - 19:59:30: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 04/23/2026 - 19:59:30: World triggered "Round_End"
+L 04/23/2026 - 19:59:35: World triggered "Round_Start"
+L 04/23/2026 - 20:02:35: Team "CT" triggered "Target_Saved" (CT "5") (T "0")
+L 04/23/2026 - 20:02:35: World triggered "Round_End"
+L 04/23/2026 - 20:02:40: World triggered "Round_Start"
+L 04/23/2026 - 20:05:40: Team "CT" triggered "Target_Saved" (CT "6") (T "0")
+L 04/23/2026 - 20:05:40: World triggered "Round_End"
+L 04/23/2026 - 20:05:46: World triggered "Round_Start"
+L 04/23/2026 - 20:08:46: Team "CT" triggered "Target_Saved" (CT "7") (T "0")
+L 04/23/2026 - 20:08:46: World triggered "Round_End"
+L 04/23/2026 - 20:08:51: World triggered "Round_Start"
+L 04/23/2026 - 20:11:51: Team "CT" triggered "Target_Saved" (CT "8") (T "0")
+L 04/23/2026 - 20:11:51: World triggered "Round_End"
+L 04/23/2026 - 20:11:56: World triggered "Round_Start"
+L 04/23/2026 - 20:14:56: Team "CT" triggered "Target_Saved" (CT "9") (T "0")
+L 04/23/2026 - 20:14:56: World triggered "Round_End"
+L 04/23/2026 - 20:15:01: World triggered "Round_Start"
+L 04/23/2026 - 20:18:01: Team "CT" triggered "Target_Saved" (CT "10") (T "0")
+L 04/23/2026 - 20:18:01: World triggered "Round_End"
+L 04/23/2026 - 20:18:06: World triggered "Round_Start"
+L 04/23/2026 - 20:21:06: Team "CT" triggered "Target_Saved" (CT "11") (T "0")
+L 04/23/2026 - 20:21:06: World triggered "Round_End"
+L 04/23/2026 - 20:21:11: World triggered "Round_Start"
+L 04/23/2026 - 20:24:12: Team "CT" triggered "Target_Saved" (CT "12") (T "0")
+L 04/23/2026 - 20:24:12: World triggered "Round_End"
+L 04/23/2026 - 20:24:17: World triggered "Round_Start"
+L 04/23/2026 - 20:27:24: Team "CT" triggered "Target_Saved" (CT "13") (T "0")
+L 04/23/2026 - 20:27:24: World triggered "Round_End"
+L 04/23/2026 - 20:27:29: World triggered "Round_Start"
+L 04/23/2026 - 20:30:36: Team "CT" triggered "Target_Saved" (CT "14") (T "0")
+L 04/23/2026 - 20:30:36: World triggered "Round_End"
+L 04/23/2026 - 20:30:41: World triggered "Round_Start"
+L 04/23/2026 - 20:33:47: Team "CT" triggered "Target_Saved" (CT "15") (T "0")
+L 04/23/2026 - 20:33:47: World triggered "Round_End"
+L 04/23/2026 - 20:33:52: World triggered "Round_Start"
+L 04/23/2026 - 20:36:57: Team "CT" triggered "Target_Saved" (CT "16") (T "0")
+L 04/23/2026 - 20:36:57: World triggered "Round_End"
+L 04/23/2026 - 20:37:03: World triggered "Round_Start"
+L 04/23/2026 - 20:40:12: Team "CT" triggered "Target_Saved" (CT "17") (T "0")
+L 04/23/2026 - 20:40:12: World triggered "Round_End"
+L 04/23/2026 - 20:40:17: World triggered "Round_Start"
+L 04/23/2026 - 20:43:21: Team "CT" triggered "Target_Saved" (CT "18") (T "0")
+L 04/23/2026 - 20:43:21: World triggered "Round_End"
+L 04/23/2026 - 20:43:26: World triggered "Round_Start"
+L 04/23/2026 - 20:46:33: Team "CT" triggered "Target_Saved" (CT "19") (T "0")
+L 04/23/2026 - 20:46:33: World triggered "Round_End"
+L 04/23/2026 - 20:46:38: World triggered "Round_Start"
+L 04/23/2026 - 20:49:45: Team "CT" triggered "Target_Saved" (CT "20") (T "0")
+L 04/23/2026 - 20:49:45: World triggered "Round_End"
+L 04/23/2026 - 20:49:50: World triggered "Round_Start"
+L 04/23/2026 - 20:52:55: Team "CT" triggered "Target_Saved" (CT "21") (T "0")
+L 04/23/2026 - 20:52:55: World triggered "Round_End"
+L 04/23/2026 - 20:53:00: World triggered "Round_Start"
+L 04/23/2026 - 20:56:06: Team "CT" triggered "Target_Saved" (CT "22") (T "0")
+L 04/23/2026 - 20:56:06: World triggered "Round_End"
+L 04/23/2026 - 20:56:11: World triggered "Round_Start"
+L 04/23/2026 - 20:59:21: Team "CT" triggered "Target_Saved" (CT "23") (T "0")
+L 04/23/2026 - 20:59:21: World triggered "Round_End"
+L 04/23/2026 - 20:59:26: World triggered "Round_Start"
+L 04/23/2026 - 21:02:26: Team "CT" triggered "Target_Saved" (CT "24") (T "0")
+L 04/23/2026 - 21:02:26: World triggered "Round_End"
+L 04/23/2026 - 21:02:31: World triggered "Round_Start"
+L 04/23/2026 - 21:05:31: Team "CT" triggered "Target_Saved" (CT "25") (T "0")
+L 04/23/2026 - 21:05:31: World triggered "Round_End"
+L 04/23/2026 - 21:05:36: World triggered "Round_Start"
+L 04/23/2026 - 21:08:36: Team "CT" triggered "Target_Saved" (CT "26") (T "0")
+L 04/23/2026 - 21:08:36: World triggered "Round_End"
+L 04/23/2026 - 21:08:42: World triggered "Round_Start"
+L 04/23/2026 - 21:10:08: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 04/23/2026 - 21:10:08: [META] ini: Read plugin config for: dproto_EF
+L 04/23/2026 - 21:10:08: [META] ini: Read plugin config for: AMX Mod X
+L 04/23/2026 - 21:10:08: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 04/23/2026 - 21:10:08: [META] dll: Updating plugins...
+L 04/23/2026 - 21:10:08: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/23/2026 - 21:10:08: Server shutdown
+L 04/23/2026 - 21:10:08: Log file closed

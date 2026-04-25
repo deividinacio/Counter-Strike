@@ -1,0 +1,30 @@
+L 04/23/2026 - 21:31:24: Log file started (file "cstrike\addons\amxmodx\logs\dmaplog0423.log") (game "cstrike") (amx "1.8.2")
+L 04/23/2026 - 21:31:24: Did not ban any maps from mapstoban.ini file
+L 04/23/2026 - 21:31:24: Map "cs_rio" is already in list! It is defined it twice
+L 04/23/2026 - 21:31:24: Map "fy_snow" is already in list! It is defined it twice
+L 04/23/2026 - 21:31:24: Loaded 16 Maps into the maps that will be picked for the vote
+L 04/23/2026 - 21:31:24: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 04/23/2026 - 21:31:24: Found 27 Maps in your mapcycle.txt/allmaps.txt file, 26 are available for filling slots
+L 04/23/2026 - 21:42:41: Did not ban any maps from mapstoban.ini file
+L 04/23/2026 - 21:42:41: Map "cs_rio" is already in list! It is defined it twice
+L 04/23/2026 - 21:42:41: Map "fy_snow" is already in list! It is defined it twice
+L 04/23/2026 - 21:42:41: Loaded 16 Maps into the maps that will be picked for the vote
+L 04/23/2026 - 21:42:41: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 04/23/2026 - 21:42:41: Found 27 Maps in your mapcycle.txt/allmaps.txt file, 26 are available for filling slots
+L 04/23/2026 - 22:07:00: Did not ban any maps from mapstoban.ini file
+L 04/23/2026 - 22:07:00: Map "cs_rio" is already in list! It is defined it twice
+L 04/23/2026 - 22:07:00: Map "fy_snow" is already in list! It is defined it twice
+L 04/23/2026 - 22:07:00: Loaded 16 Maps into the maps that will be picked for the vote
+L 04/23/2026 - 22:07:00: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 04/23/2026 - 22:07:00: Found 27 Maps in your mapcycle.txt/allmaps.txt file, 26 are available for filling slots
+L 04/23/2026 - 22:23:13: Nominations for the map vote: 0 out of 5 possible nominations
+L 04/23/2026 - 22:23:13: Randomly Filling slots for the vote with 5 out of 16
+L 04/23/2026 - 22:23:13: Filled 5 vote slots with random maps, 0 are custom
+L 04/23/2026 - 22:23:13: Vote: Voting for the nextmap started
+L 04/23/2026 - 22:23:33: Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 04/23/2026 - 22:24:04: Did not ban any maps from mapstoban.ini file
+L 04/23/2026 - 22:24:04: Map "cs_rio" is already in list! It is defined it twice
+L 04/23/2026 - 22:24:04: Map "fy_snow" is already in list! It is defined it twice
+L 04/23/2026 - 22:24:04: Loaded 16 Maps into the maps that will be picked for the vote
+L 04/23/2026 - 22:24:04: 3 Maps were not loaded because they were the last maps played, or defined twice, or banned
+L 04/23/2026 - 22:24:04: Found 27 Maps in your mapcycle.txt/allmaps.txt file, 25 are available for filling slots

@@ -1,0 +1,11 @@
+L 07/29/2021 - 13:58:33: Log file started (file "logs\L0729000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 07/29/2021 - 13:58:34: Server cvar "sv_accelerate" = "5"
+L 07/29/2021 - 13:58:41: World triggered "Round_Start"
+L 07/29/2021 - 14:01:31: [META] ini: Begin re-reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini
+L 07/29/2021 - 14:01:31: [META] ini: Read plugin config for: dproto_EF
+L 07/29/2021 - 14:01:31: [META] ini: Read plugin config for: AMX Mod X
+L 07/29/2021 - 14:01:31: [META] ini: Finished reading plugins list: c:/jogos/counter-strike/cstrike/addons/metamod/plugins.ini; Found 2 plugins
+L 07/29/2021 - 14:01:31: [META] dll: Updating plugins...
+L 07/29/2021 - 14:01:31: [META] dll: Finished updating 8 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/29/2021 - 14:01:31: Server shutdown
+L 07/29/2021 - 14:01:31: Log file closed

@@ -1,0 +1,28 @@
+﻿>> IMPORTANTE <<  
+
+Informações do jogo
+
+- Se houver erro na inicialização do jogo execute-o como administrador.
+- Atalho hlds configurado para exeção em prioridade alta no windows (evita lag no dedicated server)
+- Se o jogo iniciar em modo janela pequena, vá em "Options" >> "Video" e mude a Color Quality para Highest(32 bit), 
+clike em "Apply" e "OK", logo em seguida volte no mesmo menu para escolher resoluções maiores. 
+- Versão original, 100% Padrão! (Sem modificações).
+- Compativel com windows: XP/VISTA/7/8/8.1/10.
+- Lista de Servers apenas Brasileiros.
+- Compativel com sXe Injected.
+- Dual Protocolo 47 + 48.
+- Não precisa de Patch's.
+- Addons base AMX Mod X 1.8.2 pronto para instalar plugins.
+- Idioma: Original (Inglês).
+- Atualização para jogar Online ou com Bots.
+- Sem Fraudes nos arquivos.
+- Binds padrão (sem bug).
+- Proteção das teclas usadas por hacks.
+- Proteção contra ban destroyer (não interage com o seu client CS).
+- KeyBoard corrigido teclas padrão ABNT2.
+- Configs ajustadas para melhor conexão.
+- Menu H com controle total
+- Menu H com controle rcon (para funcionar você deve digitar: rcon_password "suasenha" no console)
+- Servidor HLDS LAN/Internet (Corrigido).
+
+By: Deivid

@@ -1,0 +1,49 @@
+L 04/23/2026 - 22:00:55: Start of error session.
+L 04/23/2026 - 22:00:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20260423.log")
+L 04/23/2026 - 22:00:55: Invalid player id 194
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:00:55: Invalid player id 186
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:00:55: Invalid player id 162
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:00:55: Invalid player id 162
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:00:55: Invalid player id 162
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:00:55: Invalid player id 162
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:00:55: Invalid player id 162
+L 04/23/2026 - 22:00:55: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:00:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:03:29: Invalid player id 183
+L 04/23/2026 - 22:03:29: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:03:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:03:29: Invalid player id 191
+L 04/23/2026 - 22:03:29: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:03:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:03:29: Invalid player id 194
+L 04/23/2026 - 22:03:29: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:03:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:03:29: Invalid player id 158
+L 04/23/2026 - 22:03:29: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:03:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:03:29: Invalid player id 158
+L 04/23/2026 - 22:03:29: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:03:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:10:40: Start of error session.
+L 04/23/2026 - 22:10:40: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20260423.log")
+L 04/23/2026 - 22:10:40: Invalid player id 198
+L 04/23/2026 - 22:10:40: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:10:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:10:40: Invalid player id 148
+L 04/23/2026 - 22:10:40: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:10:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/23/2026 - 22:10:40: Invalid player id 148
+L 04/23/2026 - 22:10:40: [AMXX] Run time error 10 (plugin "plugin-shot.amxx") (native "show_hudmessage") - debug not enabled!
+L 04/23/2026 - 22:10:40: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

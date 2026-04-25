@@ -1,0 +1,52 @@
+// Detail texture map file for de_aztec level
+// Redone for Counter-Strike
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+-0AzDirt		detail/dt_ground2		10.0		10.0
+-0AzMoss		detail/dt_grass1		10.0		10.0
+-0AzWll			detail/dt_stone1		10.0		10.0
+-1AzDirt		detail/dt_ground2		10.0		10.0
+-1AzMoss		detail/dt_grass1		10.0		10.0
+-1AzWll			detail/dt_stone1		10.0		10.0
+-2AzDirt		detail/dt_ground2		10.0		10.0
+-3AzDirt		detail/dt_ground2		10.0		10.0
+AzGrass			detail/dt_grass1		10.0		10.0
+AzGrnd			detail/dt_ground2		10.0		10.0
+AzRoad			detail/dt_grass1		5.0		5.0
+AzStatA			detail/dt_stone3		10.0		10.0
+AzStatB			detail/dt_stone3		10.0		10.0
+AzStatC			detail/dt_stone3		10.0		10.0
+AzTrim			detail/dt_stone1		10.0		10.0	
+CastSign1		detail/dt_metal2		5.0		5.0
+CastSign1b		detail/dt_metal2		5.0		5.0
+WoodCrateLid		detail/dt_wood1 		5.0		5.0
+WoodCrateLidSm		detail/dt_wood1 		5.0		5.0
+WoodCrateSd		detail/dt_wood1 		5.0		5.0
+WoodCrateSdSm		detail/dt_wood1 		5.0		5.0
+
+azwall_a		detail/dt_stone1		10.0		10.0
+azwall_b		detail/dt_stone1		10.0		10.0
+Core_Urban_151		detail/dt_ground2		10.0		10.0
+pi_ground		detail/dt_ground2		10.0		10.0
+pi_outwall2		detail/dt_stone1		10.0		10.0
+pi_bigbrk		detail/dt_stone1		10.0		10.0
+
+-0cstrike_fj2dk		detail/dt_wood1 		10.0		10.0
+-1cstrike_fj2dk		detail/dt_wood1 		10.0		10.0
+tnnl_flr1a		detail/dt_metal2		5.0		5.0
+c3a2b_reac		detail/dt_metal2		5.0		5.0
+c3a2b_reac1d		detail/dt_metal2		5.0		5.0
+c3a2b_reac1e		detail/dt_metal2		5.0		5.0
+cstrike_oe4vent		detail/dt_metal2		5.0		5.0
+subway_lights		detail/dt_metal2		5.0		5.0
+
+generic035		detail/dt_metal2		5.0		5.0
+generic039		detail/dt_metal2		5.0		5.0
+generic64b		detail/dt_metal2		5.0		5.0
+cxwoodl			detail/dt_wood1 		10.0		10.0
+cxwoodm			detail/dt_wood2 		10.0		10.0
+out_dirt2		detail/dt_ground2		10.0		10.0
+
+trrm_wood		detail/dt_wood2 		10.0		10.0
+
+{rustyrungs             detail/dt_metal1                5.0             5.0
